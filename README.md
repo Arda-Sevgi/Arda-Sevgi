@@ -1,7 +1,67 @@
-# 💫 About Me:
-I am a second-year BSc Computing student at Nottingham Trent University. I work with Python, C#, PHP, HTML, CSS, and JavaScript. Through university projects and independent work, I have developed experience in teamwork, communication, and logical problem-solving. My goal is to find opportunities within the UK to further develop my skills in software development and computing, contribute to real-world projects, and create effective, practical solutions.
+# Hi, I'm Arda 👋
 
+I'm a Computing-focused developer interested in **software development, web technologies and AI**.
 
+I enjoy building practical projects that combine programming, problem-solving and user-focused design. My experience includes working with **Python, JavaScript, HTML, CSS, C#, PHP, SQL and .NET**, alongside developing my knowledge of AI and modern software technologies.
+
+## 🛠️ Technologies & Skills
+
+### Programming Languages
+- Python
+- JavaScript
+- C#
+- PHP
+- SQL
+- HTML
+- CSS
+
+### Web & Software Development
+- .NET
+- React
+- REST APIs
+- Git & GitHub
+- Responsive Web Design
+
+### Areas of Interest
+- Software Engineering
+- Web Development
+- Artificial Intelligence
+- Data & Automation
+- UI/UX
+- Problem Solving
+
+## 🚀 Featured Projects
+
+### 🎲 NTUpoly
+An NTU-themed Monopoly-style browser game built with HTML, CSS and JavaScript, featuring property management, trading, timed gameplay and interactive game mechanics.
+
+### 🏋️ Fitness Tracker
+A Python-based fitness tracking application with user authentication, activity and nutrition tracking, fitness goals, progress monitoring and CSV data storage.
+
+### 🎬 Movie Site
+A responsive and accessible movie website built with HTML, CSS and JavaScript, featuring multimedia content and interactive elements.
+
+### 🍎 Fruit Inventory
+A Python-based inventory management system using CSV storage to manage stock levels, add and remove items, and identify low-stock products.
+
+### 🧮 Calculation Programs
+A collection of Python programs created to practise programming fundamentals, mathematical calculations and problem-solving.
+
+## 📚 Currently Developing
+
+I'm continuing to improve my skills in:
+
+- Python and software development
+- AI and machine learning
+- Web development
+- Data and APIs
+- Clean and maintainable code
+- Building practical projects
+
+## 📫 Connect With Me
+
+- GitHub: Arda-Sevgi
+- LinkedIn: Arda Sevgi
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Arda_Sevgi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardasevgiuk@outlook.com) 
 
