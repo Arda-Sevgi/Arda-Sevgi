@@ -60,8 +60,7 @@ I'm continuing to improve my skills in:
 
 ## 📫 Connect With Me
 
-- GitHub: Arda-Sevgi
-- LinkedIn: Arda Sevgi
+- LinkedIn: linkedin.com/in/arda-sevgi-561299389
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Arda_Sevgi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardasevgiuk@outlook.com) 
 
